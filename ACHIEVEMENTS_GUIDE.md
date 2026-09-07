@@ -9,3 +9,10 @@ This repository serves as a testing and reference lab for unlocking GitHub achie
 - 🧠 **Galaxy Brain**: Answer questions in GitHub Discussions.
 - 🌟 **Starstruck**: Receive stars on your repositories.
 - 💖 **Public Sponsor**: Sponsor open source creators.
+
+## Badge Progress Tracking
+- [x] Quickdraw
+- [x] YOLO
+- [x] Pair Extraordinaire
+- [x] Pull Shark
+
